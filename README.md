@@ -1,2 +1,3 @@
 # Kinematics
-MATLAB script to plot a kinematic linkage system
+
+DoubleSliderCrank.m plots a short animation of a kinematic system which consists of two Slider-Crank linkages that share the same crank.
